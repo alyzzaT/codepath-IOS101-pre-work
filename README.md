@@ -37,7 +37,7 @@ The following **required** functionality is completed:
    - View videos without an account
    
    ### My App Idea:  
-   I want to build an app that is easy to use and helpful for people with disabilities, like those who have trouble moving their hands or arms. The app will have big buttons, simple design, and might let users use their voice to control it. It will also work with tools like screen readers to make sure everyone can use it. I want to make sure the app is fair and easy for everyone, no matter what their needs are.
+   I want to build an app that is easy to use and helpful for people with disabilities, like those who have limited mobility. The app will have big buttons, simple design, and might let users use their voice to control it. It will also work with tools like screen readers to make sure everyone can use it. I want to make sure the app is fair and easy for everyone, no matter what their needs are.
 
 ## Notes
 
