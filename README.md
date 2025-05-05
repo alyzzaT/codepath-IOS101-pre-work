@@ -2,7 +2,7 @@
 
 Submitted by: **Alyssa Tu**
 
-**IOS101Prep** is an app that displays labels about me and changes the screen background color when a button is tapped
+**IOS101Prep** is an app that displays labels about me and changes the screen background color when a button is tapped.
 
 Time spent: **2** hours spent in total
 
